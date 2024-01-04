@@ -1,7 +1,8 @@
 repo_name: ashleanichols/react-website-v2
 report_id: 9162b6ddb23f52bf76cd66512533ba63
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-09T16:52:23+00:00'
+timestamp: '2024-01-04T15:07:03+00:00'
 requested_by: briancodex
 provider: github
 branch: starter
@@ -15,4 +16,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ashleanichols/react-website-v2
   detection_source: Repo Metadata
